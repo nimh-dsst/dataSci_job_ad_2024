@@ -41,3 +41,5 @@ Data science is moving fast – we’re looking for someone who can move faster.
 Email your resume, a cover letter, and a code sample that demonstrates you are all three of the above to:
 
 DATASCI-JOBSEARCH@mail.nih.gov
+
+The National Institutes of Health is an equal opportunity employer.
