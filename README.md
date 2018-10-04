@@ -1,5 +1,5 @@
 <img src="NIMH_logo.png" width="300">
-<img src="DSSC_logo.png" width="50">
+<img src="DSSC_logo_draft3.png" width="50">
 
 
 # Hiring: NIH Data Scientist
