@@ -34,7 +34,7 @@ Ideally we would like to see a recent degree (BS, MS, or PhD) in a STEM field, b
 
 ### DRIVEN
 
-We're looking for someone who's motivated to develop and research their own ideas. You should be willing and able to argue for the priorities they think we should focus on, and work together to achieve those goals. You should be a self-learner and a self-starter. Please provide some examples of things you have worked on independently. 
+We're looking for someone who's motivated to develop and research their own ideas. You should be willing and able to argue for the priorities you think the team should focus on, and work together to achieve those goals. You should be a self-learner and a self-starter. Please provide some examples of things you have worked on independently. 
 
 # How to apply…
 
