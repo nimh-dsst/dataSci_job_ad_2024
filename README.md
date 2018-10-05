@@ -29,7 +29,7 @@ You should be very comfortable on the command line and with quickly manipulating
 
 ### PROVEN
 
-Ideally we would like to see a recent degree (BS, MS, or PhD) in a STEM field, but if you can prove you have an equivalent amount of expertise with your publications, projects, or github/kaggle ranking, we’re all ears. We are also interviewing students and part-time staff if you’re still working on your degree.
+Ideally we would like to see a recent degree (BS, MS, or PhD) in a [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) field, but if you can prove you have an equivalent amount of expertise with your publications, projects, or github/kaggle ranking, we’re all ears. We are also interviewing students and part-time staff if you’re still working on your degree.
 
 ### DRIVEN
 
