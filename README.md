@@ -2,10 +2,11 @@
 
 
 # Hiring: NIH Data Scientist
+See also a postdoc position avaialble on the [AFNI Team](https://github.com/afni/Post_doc_position_available)
 
 The [National Institute of Mental Health (NIMH)](http://www.nimh.nih.gov) is the largest funder of research on mental disorders in the world, with a current budget of over $1.4B. Our mission is to to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. The NIH is a highly rated employer at [glassdoor.com](https://www.glassdoor.com/Overview/Working-at-NIH-EI_IE11709.11,14.htm) with very competitive salary and benefits packages.
 
-The [Data Science and Sharing Team (DSST)](http://cmn.nimh.nih.gov/dsst) is a new group created to develop and support data sharing and other data-intensive scientific projects within the [NIMH Intramural Research Program](https://www.nimh.nih.gov/labs-at-nimh/index.shtml) (IRP). Working closely with the [Office of Data Science](https://datascience.nih.gov/) the goal of the DSST is to make the NIMH IRP a leader in open science and data sharing practices. We are looking for a talented Data Scientist to add to our team. Typical compensation for NIH staff scientists is available at [Glassdoor](https://www.glassdoor.com/Salaries/staff-scientist-salary-SRCH_KO0,15.htm).
+The [Data Science and Sharing Team (DSST)](http://cmn.nimh.nih.gov/dsst) is a new group created to develop and support data sharing and other data-intensive scientific projects within the [NIMH Intramural Research Program](https://www.nimh.nih.gov/labs-at-nimh/index.shtml) (IRP). Working closely with the [NIH Data Science Community](https://datascience.nih.gov/) the goal of the DSST is to make the NIMH IRP a leader in open science and data sharing practices. We are looking for a talented Data Scientist to add to our team. Typical compensation for NIH staff scientists is available at [Glassdoor](https://www.glassdoor.com/Salaries/staff-scientist-salary-SRCH_KO0,15.htm).
 
 ## What you’ll do…
 
