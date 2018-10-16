@@ -44,4 +44,4 @@ Email your resume, a cover letter, and a code sample that demonstrates you are a
 
 DATASCI-JOBSEARCH@mail.nih.gov
 
-The National Institutes of Health is an equal opportunity employer.
+The National Institutes of Health is an equal opportunity employer. This position will be based at NIMH in Bethesda, MD via a third party contracting firm.
