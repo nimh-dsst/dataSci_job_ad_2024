@@ -3,7 +3,7 @@
 
 # Hiring: NIH Data Scientist
 See also: 
-* [Postdoc position available on the AFNI Team](https://github.com/afni/Post_doc_position_available)
+* [Staff scientist position available on the AFNI Team](https://github.com/afni/Post_doc_position_available)
 * [Data Scientist Position in the Sections on Neural Function and Fundamental Neuroscience](https://github.com/nih-fmrif/mcrscpy_dataSci_job)
 
 The [National Institute of Mental Health (NIMH)](http://www.nimh.nih.gov) is the largest funder of research on mental disorders in the world, with a current budget of over $1.4B. Our mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. The NIH is a highly rated employer at [glassdoor.com](https://www.glassdoor.com/Overview/Working-at-NIH-EI_IE11709.11,14.htm) with very competitive salary and benefits packages.
