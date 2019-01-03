@@ -28,7 +28,7 @@ Our team is committed to the [NIMH Mission](https://www.nimh.nih.gov/about/index
 
 ### EXPERIENCED
 
-You should be very comfortable on the command line and with quickly manipulating large datasets with lots of files. You should also have experience coding in modern languages currently used in data-intensive, scientific computing such as Python or R. Alternatively, you may be more proficient in front-end development and visualization with Javascript. Experience with distributed, high-performance computing tools such as [Docker](https://www.docker.com)/[Singularity](https://singularity.lbl.gov) and batch processing systems such as [SLURM](http://slurm.schedmd.com/) is a plus.
+You should be comfortable with building processing pipelines for biomedical imaging data (e.g. fMRI, calcium imaging, electrophysiology, etc). You should also have experience coding in modern languages currently used in data-intensive, scientific computing such as Python or R. Alternatively, you may be more proficient in front-end development and visualization with Javascript. Experience with distributed, high-performance computing tools such as [Docker](https://www.docker.com)/[Singularity](https://singularity.lbl.gov) and batch processing systems such as [SLURM](http://slurm.schedmd.com/) is a plus.
 
 ### PROVEN
 
