@@ -5,10 +5,10 @@ http://cmn.nimh.nih.gov
 # Hiring: NIH Data Scientist
 See also: 
 * [Staff Scientist Position in the Scientific and Statistical Computing Core (AFNI group)](https://github.com/afni/Post_doc_position_available)
-* Postdoctoral position in functional imaging methods (Peter Bandettini Lab)
-* Machine Learning Scientist Position (Francisco Pereira group)
-* Computational Program Officers in NIMH
-* Chief Data Strategist for NIH
+* [Postdoctoral position in functional imaging methods (Peter Bandettini Lab)](https://fim.nimh.nih.gov/positions-available)
+* [Machine Learning Scientist Position (Francisco Pereira group)](https://cmn.nimh.nih.gov/node/14)
+* [Computational Program Officers in NIMH](
+* [Chief Data Strategist for NIH](https://twitter.com/damadam/status/1134488827043520512)
 
 
 The [National Institute of Mental Health (NIMH)](http://www.nimh.nih.gov) is the largest funder of research on mental disorders in the world, with a current budget of over $1.4B. Our mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. The NIH is a highly rated employer at [glassdoor.com](https://www.glassdoor.com/Overview/Working-at-NIH-EI_IE11709.11,14.htm) with very competitive salary and benefits packages.
