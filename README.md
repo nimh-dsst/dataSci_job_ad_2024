@@ -7,7 +7,7 @@ See also:
 * [Staff Scientist Position in the Scientific and Statistical Computing Core (AFNI group)](https://github.com/afni/Post_doc_position_available)
 * [Postdoctoral position in functional imaging methods (Peter Bandettini Lab)](https://fim.nimh.nih.gov/positions-available)
 * [Machine Learning Scientist Position (Francisco Pereira group)](https://cmn.nimh.nih.gov/node/14)
-* [Computational Program Officers in NIMH](
+* [Computational Program Officers in NIMH](https://twitter.com/NIMHDirector/status/1133425333888258052)
 * [Chief Data Strategist for NIH](https://twitter.com/damadam/status/1134488827043520512)
 
 
