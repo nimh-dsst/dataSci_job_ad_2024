@@ -29,7 +29,7 @@ Ideally we would like to see a recent degree (BS, MS, or PhD) in a [STEM](https:
 
 ### EXPERIENCED
 
-You should have experience coding in modern languages currently used in data-intensive, scientific computing such as Python or R. Alternatively, you may be more proficient in front-end development and visualization with Javascript. Experience with distributed, high-performance computing tools such as [Docker](https://www.docker.com)/[Singularity](https://singularity.lbl.gov) and batch processing systems such as [SLURM](http://slurm.schedmd.com/) is a plus. Please provide some concrete examples of your code, ideally checked into an online repository like Github or BitBucket.
+You should have experience coding in modern languages currently used in data-intensive, scientific computing such as Python or R.  Experience with distributed, high-performance computing tools such as [Docker](https://www.docker.com)/[Singularity](https://singularity.lbl.gov) and batch processing systems such as [SLURM](http://slurm.schedmd.com/) is a plus. So is experience with front-end development and visualization with Javascript. Please provide some concrete examples of your code, ideally checked into an online repository like Github or BitBucket.
 
 ### DRIVEN
 
