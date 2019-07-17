@@ -19,13 +19,13 @@ You will work to bolster data science skills within the NIMH IRP by teaching cou
 
 ### STANDARDIZE
 
-Our team is committed to the [NIMH Mission](https://www.nimh.nih.gov/about/index.shtml) of understanding and treating mental illness and we believe open, clean data (and lots of it) is crucial to realizing that mission. You'll be standarizing these datasets to make those models work better as well as contibuting to better standards in our field (e.g. [BIDS](https://bids.neuroimaging.io), [NIDM](http://nidm.nidash.org/), [RDOC](https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/index.shtml), [NIH Strategic Data Plan](https://datascience.nih.gov/strategicplan) etc.), You also will work closely with (and sit next to) the [Machine Learning Team](http://cmn.nimh.nih.gov/mlt) who are using theses data to build the models needed to understand complex brain function and disease.
+Our team is committed to the [NIMH Mission](https://www.nimh.nih.gov/about/index.shtml) of understanding and treating mental illness and we believe open, clean data (and lots of it) is crucial to realizing that mission. You'll be standarizing these datasets to make those models work better as well as contibuting to better standards in our field (e.g. [BIDS](https://bids.neuroimaging.io), [NIDM](http://nidm.nidash.org/), [RDOC](https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc/index.shtml), [NIH Strategic Data Plan](https://datascience.nih.gov/strategicplan) etc.), You also will work closely with (and sit next to) the [Machine Learning Team](http://cmn.nimh.nih.gov/mlt) who are using these data to build the models needed to understand complex brain function and disease.
 
 ## Who you are…
 
 ### TRAINED
 
-Ideally we would like to see a recent degree (BS, MS, or PhD) in a [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) field, but it's fine if you're early in your career. Ideally you're comfortable building processing pipelines for complex biomedical imaging data (e.g. fMRI, calcium imaging, electrophysiology, etc.) but other knowledge-domains will be considered. Please tell us about (or show us) a large, messy dataset that you have conquered.
+We would like to see a recent degree (BS, MS, or PhD) in a [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) field. It's fine if you're fresh out or early in your career. Ideally, you should be comfortable building processing pipelines for complex biomedical imaging data (e.g. fMRI, calcium imaging, electrophysiology, etc.) but other knowledge-domains will be considered. Please tell us about (or show us) a large, messy dataset that you have conquered.
 
 ### EXPERIENCED
 
