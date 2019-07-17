@@ -1,7 +1,7 @@
 <img src="NIMH_logo.png" width="250"> <img src="dsst_logo_draft3.png" width="75">
 
 
-# Hiring: NIH Data Engineer
+# Hiring: Data Engineer
 
 The [National Institute of Mental Health (NIMH)](http://www.nimh.nih.gov) is the largest funder of research on mental disorders in the world, with a current budget of over $1.6B per year. Our mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. The NIH is a highly rated employer at [glassdoor.com](https://www.glassdoor.com/Overview/Working-at-NIH-EI_IE11709.11,14.htm) with very competitive salary and benefits packages.
 
