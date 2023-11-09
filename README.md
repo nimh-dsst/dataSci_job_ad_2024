@@ -1,12 +1,11 @@
 <img src="https://nimh-dsst.github.io/dataSci_job_ad/NIMH_logo.png?raw=True" width="250"> <img src="dsst_logo_draft3.png" width="75">
 
-
 # Hiring: Data Scientist
-The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) at the National Institute of Mental Health (NIMH) in Bethesda, MD has an open position for a data scientist. The [NIMH](http://www.nimh.nih.gov) is among the largest divisions of the [NIH](http://www.nih.gov) and is the largest funder of research on mental disorders in the world, with a current budget of over $2B per year. The NIMH mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. 
+The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) at the National Institute of Mental Health (NIMH) in Bethesda, MD has an open position for a data scientist. With a current budget of over $2B per year, the [NIMH](http://www.nimh.nih.gov) is among the largest divisions of the [NIH](http://www.nih.gov) and is the largest funder of research on mental disorders in the world. The NIMH mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. 
 
 The DSST is responsible for leading and supporting data-intensive scientific projects within the NIMH Intramural Research Program [(IRP)](https://www.nimh.nih.gov/labs-at-nimh/index.shtml). We work closely with the [Machine Learning Team](http://cmn.nimh.nih.gov/mlt) who develop and apply new analyses to better understand complex brain function and disorders.
 
-We also work to implement the [policy guidance](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/) from the White House Office of Science Policy ([OSTP)](https://www.whitehouse.gov/ostp/)  to ensure free, immediate, and equitable public access to federally funded research, foster greater collaboration and innovation, and strengthen public trust.
+We also work to implement the [policy guidance](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/) from the White House Office of Science Policy ([OSTP)](https://www.whitehouse.gov/ostp/) to ensure free, immediate, and equitable public access to federally funded research, foster greater collaboration and innovation, and strengthen public trust.
 
 ## Responsibilities
 
