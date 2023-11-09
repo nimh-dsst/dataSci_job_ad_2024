@@ -39,7 +39,7 @@ We're looking for someone who's motivated to develop and research ideas for impl
 
 # How to apply…
 
-Email your resume, a short cover letter, and a code sample (or URL) that demonstrates you meet the above qualifications to:
+Email your resume and a short cover letter in the body of the email to:
 
 DATASCI-JOBSEARCH@mail.nih.gov
 
