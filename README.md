@@ -2,7 +2,7 @@
 
 
 # Hiring: Data Scientist
-The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) at the National Institute of Mental Health (NIMH) in Bethesda, MD has an open position for a data scientist. The [NIMH](http://www.nimh.nih.gov) is among the largest division of the [NIH](http://www.nih.gov) and is the largest funder of research on mental disorders in the world, with a current budget of over $2B per year. The NIMH mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. 
+The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) at the National Institute of Mental Health (NIMH) in Bethesda, MD has an open position for a data scientist. The [NIMH](http://www.nimh.nih.gov) is among the largest divisions of the [NIH](http://www.nih.gov) and is the largest funder of research on mental disorders in the world, with a current budget of over $2B per year. The NIMH mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. 
 
 The DSST is responsible for leading and supporting data-intensive scientific projects within the NIMH Intramural Research Program [(IRP)](https://www.nimh.nih.gov/labs-at-nimh/index.shtml). We work closely with the [Machine Learning Team](http://cmn.nimh.nih.gov/mlt) who develop and apply new analyses to better understand complex brain function and disorders.
 
@@ -37,10 +37,12 @@ You should have experience coding in modern languages currently used in data-int
 
 We're seeking someone who's interested in and motivated by our mission to increase transparency and data availability in biomedical science. We decide on projects and priorities together as a team and are looking for people to participate fully in that process.
 
+Our offices are on the NIH campus in Bethesda, Maryland and preference will be given to candidates who are able to work onsite, though hybrid arrangements are possible. 
+
 # How to apply…
 
 Email your resume and a short cover letter in the body of the email to:
 
 DATASCI-JOBSEARCH@mail.nih.gov
 
-The National Institutes of Health is an equal opportunity employer. This position will be based at NIMH in Bethesda, MD via a third party contracting firm.
+The National Institutes of Health is an equal opportunity employer. This position will be based at NIMH in Bethesda, MD via a third party contracting firm who is able to provide visa sponsorship.
