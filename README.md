@@ -26,7 +26,7 @@ Data standards are critical for making open data Findable, Accessible, Interoper
 
 ### Education
 
-You should have a recent graduate degree (PhD preferred) in a [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) field. It's fine if you're fresh out or early in your career. Ideally, you should be comfortable building processing pipelines for complex biomedical data. For this position, we are particularly interested in candidates who have worked with microscopy data, but experience with other data types (e.g., electrophysiology, genomics, neuroimaging, etc.) will also be considered. 
+You should have a recent graduate degree (PhD preferred) in a [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) field. It's fine if you're fresh out or early in your career. Ideally, you should be comfortable building processing pipelines for complex biomedical data. For this position, **we are particularly interested in candidates who have experience with microscopy data**, but those with experience with other data types (e.g., electrophysiology, genomics, neuroimaging, etc.) are also welcome to apply. 
 
 ### Technical Experience
 
@@ -35,7 +35,7 @@ You should have experience coding in modern languages currently used in data-int
 
 ### Drive and Motivation
 
-We're looking for someone who's motivated to develop and research ideas for implementing our mission. We decide on priorities together as a team and are looking for people to participate fully in that process.
+We're seeking someone who's interested in and motivated by our mission to increase transparency and data availability in biomedical science. We decide on projects and priorities together as a team and are looking for people to participate fully in that process.
 
 # How to apply…
 
