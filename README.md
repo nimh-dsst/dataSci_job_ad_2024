@@ -1,8 +1,8 @@
-<img src="NIMH_logo.png" width="250"> <img src="dsst_logo_draft3.png" width="75">
+<img src="https://nimh-dsst.github.io/dataSci_job_ad/NIMH_logo.png?raw=True" width="250"> <img src="dsst_logo_draft3.png" width="75">
 
 
 # Hiring: Data Scientist
-The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) at the National Institute of Mental Health (NIMH) in Bethesda, MD has an open position for a data scientist. The [NIMH](http://www.nimh.nih.gov) is among the largest division of the [NIH](http://www.nih.gov) and is the largest funder of research on mental disorders in the world, with a current budget of over $2B per year. Our mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. 
+The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) at the National Institute of Mental Health (NIMH) in Bethesda, MD has an open position for a data scientist. The [NIMH](http://www.nimh.nih.gov) is among the largest division of the [NIH](http://www.nih.gov) and is the largest funder of research on mental disorders in the world, with a current budget of over $2B per year. The NIMH mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. 
 
 The DSST is responsible for leading and supporting data-intensive scientific projects within the NIMH Intramural Research Program [(IRP)](https://www.nimh.nih.gov/labs-at-nimh/index.shtml). We work closely with the [Machine Learning Team](http://cmn.nimh.nih.gov/mlt) who develop and apply new analyses to better understand complex brain function and disorders.
 
