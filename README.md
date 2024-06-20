@@ -29,7 +29,7 @@ You will work to cultivate data science skills within the NIH by teaching course
 
 ### Implementing, Advancing, and Creating Data Standards
 
-Data standards are critical for making open data Findable, Accessible, Interoperable, and Reusable [(FAIR)](https://en.wikipedia.org/wiki/FAIR_data). You will be implementing and contributing to projects throughout the world that are building standards and tools for open and reproducible neuroscience (*e.g.* [OpenMicroscopy](https://www.openmicroscopy.org/), [BIDS](http://bids.neuroimaging.io/), and [(NWB)](https://www.nwb.org/).
+Data standards are critical for making open data Findable, Accessible, Interoperable, and Reusable [(FAIR)](https://en.wikipedia.org/wiki/FAIR_data). You will be implementing and contributing to projects throughout the world that are building standards and tools for open and reproducible neuroscience (*e.g.* [OpenMicroscopy](https://www.openmicroscopy.org/), [BIDS](http://bids.neuroimaging.io/), and [NWB](https://www.nwb.org/)).
 
 ## Qualifications
 
