@@ -1,22 +1,23 @@
 <img src="https://nimh-dsst.github.io/dataSci_job_ad/NIMH_logo.png?raw=True" width="250"> <img src="dsst_logo_draft3.png" width="75">
 
 # Hiring: Data Scientist
-The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) at the National Institute of Mental Health (NIMH) in Bethesda, MD has an open position for a data scientist. With a current budget of over $2B per year, the [NIMH](http://www.nimh.nih.gov) is among the largest divisions of the [NIH](http://www.nih.gov) and is the largest funder of research on mental disorders in the world. The NIMH mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. 
+**The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) at the National Institute of Mental Health (NIMH) in Bethesda, MD has an open position for a data scientist.** With a current budget of over $2B per year, the [NIMH](http://www.nimh.nih.gov) is among the largest divisions of the [NIH](http://www.nih.gov) and is the largest funder of research on mental disorders in the world. The NIMH mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. 
 
-The DSST is responsible for leading and supporting data-intensive scientific projects within the NIMH Intramural Research Program [(IRP)](https://www.nimh.nih.gov/labs-at-nimh/index.shtml). We work closely with the [Machine Learning Team](http://cmn.nimh.nih.gov/mlt) who develop and apply new analyses to better understand complex brain function and disorders. As well as other IRP research groups, such as [Section of Neurodevelopmental Genomics](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/hgb/sdn) led by Armin Raznahan. 
+The DSST is responsible for leading and supporting data-intensive scientific projects within the NIMH Intramural Research Program [(IRP)](https://www.nimh.nih.gov/labs-at-nimh/index.shtml). We work closely with the [Machine Learning Team](http://cmn.nimh.nih.gov/mlt) who develop and apply new analyses to better understand complex brain function and disorders. As well as other IRP research groups (such as [Section of Neurodevelopmental Genomics](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/hgb/sdn) led by Armin Raznahan) who develop and apply new analyses to better understand complex brain function and disorders. Special emphasis is placed on analysis of high dimensional genetic, genomic, neuroimaging and behavioral datasets. 
 
-Recent notable projects of ours and/or our collaborators include:
+## Responsibilities
+
+**The successful candidate for this position would lead rapidly expanding DSST efforts in large ‘omic datasets from next generation sequencing technologies.** These datasets would come from rare and globally unique patient cohorts within the NIMH IRP as well as from large public repositories such as the UK Biobank, GTEX, and the Allen Institute for Brain Sciences.
+
 - [Evolutionary divergence between homologous X-Y chromosome genes shapes sex-biased biology](https://www.biorxiv.org/content/10.1101/2024.03.27.586985v1.abstract)
 - [X-chromosome influences on neuroanatomical variation in humans](https://www.nature.com/articles/s41593-021-00890-w)
 - [The positive–negative mode link between brain connectivity, demographics and behaviour: a pre-registered replication of Smith et al. (2015)](https://royalsocietypublishing.org/doi/10.1098/rsos.201090)
 - [Improving the Interpretability of fMRI Decoding Using Deep Neural Networks and Adversarial Robustness](https://apertureneuro.org/article/85074)
 - [Demonstrating quality control (QC) procedures in fMRI](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1205928/full)
 
-These projects are examples of the type of work you will be doing. Particularly, we are looking to fill this position with someone who can broaden our skill set to include new methods (e.g., next generation sequencing) and/or modalities (e.g., microscopy). 
+These projects are examples of the type of work you will be doing. Particularly, we are looking to fill this position with someone who can broaden our skill set to include new methods (e.g., next generation sequencing) and/or modalities (e.g., microscopy).
 
 We also work to implement the [policy guidance](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/) from the White House Office of Science Policy ([OSTP)](https://www.whitehouse.gov/ostp/) to ensure free, immediate, and equitable public access to federally funded research, foster greater collaboration and innovation, and strengthen public trust.
-
-## Responsibilities
 
 ### Building tools and data pipelines
 
@@ -49,8 +50,8 @@ Our offices are on the NIH campus in Bethesda, Maryland and preference will be g
 
 # How to apply…
 
-Email your resume and a short cover letter in the body of the email to:
+You can find the application and more information here:
 
-DATASCI-JOBSEARCH@mail.nih.gov
+https://leidosbiomed.csod.com/ux/ats/careersite/4/home/requisition/3948?c=leidosbiomed
 
 The National Institutes of Health is an equal opportunity employer. This position will be based at NIMH in Bethesda, MD via a third party contracting firm who is able to provide visa sponsorship.
