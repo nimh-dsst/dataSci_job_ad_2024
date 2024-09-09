@@ -2,7 +2,7 @@
 
 # Hiring: Data Scientist
 
-The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) within the National Institute of Mental Health's [(NIMH)]() Intramural Research Program [(IRP)]() in Bethesda, MD has an open on-site or hybrid position for an early to mid-career data scientist.
+The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) within the National Institute of Mental Health's [(NIMH)](http://www.nimh.nih.gov) Intramural Research Program [(IRP)](https://www.nimh.nih.gov/research/research-conducted-at-nimh) in Bethesda, MD has an open on-site or hybrid position for an early to mid-career data scientist.
 
 ## About the NIH, NIMH, & IRP
 
@@ -10,7 +10,7 @@ With a current budget of over $2.5B per year, the [NIMH](http://www.nimh.nih.gov
 
 ## About the Team
 
-The DSST is responsible for leading and supporting data-intensive scientific projects within the NIMH Intramural Research Program [(IRP)](https://www.nimh.nih.gov/labs-at-nimh/index.shtml). We work closely with the [Machine Learning Team](http://cmn.nimh.nih.gov/mlt) as well as other IRP investigators (e.g. [Armin Raznahan](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/hgb/sdn), [Peter Bandettini](),[Robert Innis]()). Special emphasis is placed on reproducible analyses of high dimensional genetic, genomic, neuroimaging and behavioral datasets.
+The DSST is responsible for leading and supporting data-intensive scientific projects within the NIMH Intramural Research Program [(IRP)](https://www.nimh.nih.gov/labs-at-nimh/index.shtml). We work closely with the [Machine Learning Team](http://cmn.nimh.nih.gov/mlt) as well as other IRP investigators (e.g. [Armin Raznahan](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/hgb/sdn), [Peter Bandettini](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/lbc/sfim), [Robert Innis](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/mib/spns)). Special emphasis is placed on reproducible analyses of high dimensional genetic, genomic, neuroimaging, and behavioral datasets.
 
 We also work to implement the [policy guidance](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/) from the White House Office of Science Policy ([OSTP)](https://www.whitehouse.gov/ostp/) to ensure free, immediate, and equitable public access to federally funded research, foster greater collaboration and innovation, and strengthen public trust.
 
@@ -24,25 +24,25 @@ Everything we create is open source and freely distributed. A full listing of re
 - Implementing reproducible pipelines using both High Performance Computing and Elastic Cloud Computing  
 - Writing clear documentation and scholarly publications
 - Teaching and consulting on data science and best practices for reproducibility (e.g. [Software and Data Carpentries](https://carpentries.org/), [BrainHack Global](https://brainhack.org/global2023/))
-- Creating, expanding and supporting [FAIR](https://en.wikipedia.org/wiki/FAIR_data) data standards in biomedical science (*e.g.* [BIDS](http://bids.neuroimaging.io/), [NWB](https://www.nwb.org/) [OME](https://www.openmicroscopy.org/), [GO](https://geneontology.org/))
+- Creating, expanding, and supporting [FAIR](https://en.wikipedia.org/wiki/FAIR_data) data standards in biomedical science (*e.g.* [BIDS](http://bids.neuroimaging.io/), [NWB](https://www.nwb.org/) [OME](https://www.openmicroscopy.org/), [GO](https://geneontology.org/))
 
-This position has minimal supervisory responsibilities, however motivated and productive individuals will have the opportunity to quickly assume more a senior role involving more supervision and oversight of additional projects in parallel.
+This position has minimal supervisory responsibilities, however motivated and productive individuals will have the opportunity to quickly assume more a senior role involving supervision and oversight of additional projects in parallel.
 
 ### Necessary Qualifications
 
 - A recent graduate degree (PhD preferred) in a [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) field or equivalent knowledge and experience
-- Strong coding skill in Python
-- Experience with version control and continuous integration with git and github.
+- Strong coding skills in Python
+- Experience with version control and continuous integration with git and github
 - Experience with more than one type of biomedical data (e.g. neuroimaging, genomics, next generation sequencing (NGS), transcriptomics, electrophysiology, microscopy)
 
 ### Desirable but not Required Qualifications
 
-- Experience working with biomedical data repositories and biobanks (*e.g.* [The Adolescent Brain and Cognitive Development Project (ABCD)](https://nda.nih.gov/abcd/),  [OpenNeuro](http://openneuro.org), [UK Biobank](http://www.ukbiobank.ac.uk/), [GTEX]()) 
-- Experience with distributed, high-performance computing tools such as [Docker](https://www.docker.com)/[Singularity](https://singularity.lbl.gov) and batch processing systems such as [SLURM](http://slurm.schedmd.com/)- 
+- Experience working with biomedical data repositories and biobanks (*e.g.* [The Adolescent Brain and Cognitive Development Project (ABCD)](https://nda.nih.gov/abcd/),  [OpenNeuro](http://openneuro.org), [UK Biobank](http://www.ukbiobank.ac.uk/), [GTEX](https://gtexportal.org/home/)) 
+- Experience with distributed, high-performance computing tools such as [Docker](https://www.docker.com)/[Apptainer (formerly Singularity)](https://apptainer.org/documentation/) and batch processing systems such as [SLURM](http://slurm.schedmd.com/)
 
 # How to apply…
 
-Send an email to DATASCI-JOBSEARCH@mail.nih.gov
+Send an email to DATASCI-JOBSEARCH@mail.nih.gov.
 Attach your CV and use the body of the email as your cover letter. Links to examples of your code and/or publications are also encouraged. We especially encourage applications from members of underrepresented groups in the data science and biomedical research community. Other inquiries are also welcome.
 
 The National Institutes of Health is an equal opportunity employer. This position will be based at NIMH in Bethesda, MD via a third party contracting firm who is able to provide visa sponsorship.
