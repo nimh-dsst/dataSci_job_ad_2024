@@ -26,7 +26,7 @@ Everything we create is open source and freely distributed. A full listing of re
 - Teaching and consulting on data science and best practices for reproducibility (e.g. [Software and Data Carpentries](https://carpentries.org/), [BrainHack Global](https://brainhack.org/global2023/))
 - Creating, expanding, and supporting [FAIR](https://en.wikipedia.org/wiki/FAIR_data) data standards in biomedical science (*e.g.* [BIDS](http://bids.neuroimaging.io/), [NWB](https://www.nwb.org/) [OME](https://www.openmicroscopy.org/), [GO](https://geneontology.org/))
 
-This position has minimal supervisory responsibilities, however motivated and productive individuals will have the opportunity to quickly assume more a senior role involving supervision and oversight of additional projects in parallel.
+This position has minimal supervisory responsibilities, however motivated and productive individuals will have the opportunity to quickly assume a more senior role involving supervision and oversight of additional projects in parallel.
 
 ### Necessary Qualifications
 
