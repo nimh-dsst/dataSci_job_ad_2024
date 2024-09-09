@@ -6,13 +6,13 @@ The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) within 
 
 ## About the NIH, NIMH, & IRP
 
-With a current budget of over $2.5B per year, the NIMH is among the largest divisions of the [NIH](http://www.nih.gov) and is the largest funder of research on mental disorders in the world. The NIMH mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure.  The IRP is the [largest biomedical research institution on earth](https://en.wikipedia.org/wiki/NIH_Intramural_Research_Program#:~:text=the%20NIH%20Intramural%20Research%20Program%20is%20the%20largest%20biomedical%20research%20institution%20on%20earth), where the unique funding environment allows scientists to conduct both long-term and high-impact science that would difficult to impossible in a grant-dependent institution.
+With a current budget of over $2.5B per year, the NIMH is among the largest divisions of the [NIH](http://www.nih.gov) and is the largest funder of research on mental disorders in the world. The NIMH mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure.  The IRP is the largest biomedical research institution on earth[^1], where the unique funding environment allows scientists to conduct both long-term and high-impact science that would difficult to impossible in a grant-dependent institution.
 
 ## About the Team
 
 The DSST is responsible for leading and supporting data-intensive scientific projects within the NIMH IRP. We work closely with the [Machine Learning Team](http://cmn.nimh.nih.gov/mlt), as well as other IRP investigators (e.g. [Armin Raznahan](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/hgb/sdn), [Peter Bandettini](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/lbc/sfim), [Robert Innis](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/mib/spns)). Special emphasis is placed on reproducible analyses of high dimensional genetic, genomic, neuroimaging, and behavioral datasets.
 
-We also work to implement the [policy guidance](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/) from the White House Office of Science Policy ([OSTP)](https://www.whitehouse.gov/ostp/) to ensure free, immediate, and equitable public access to federally funded research, foster greater collaboration and innovation, and strengthen public trust.
+We also work to implement the [policy guidance](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/) from the White House [Office of Science Policy](https://www.whitehouse.gov/ostp/) to ensure free, immediate, and equitable public access to federally funded research, foster greater collaboration and innovation, and strengthen public trust.
 
 Everything we create is open source and freely distributed. A full listing of research objects from out team as of December 2023 is available in our [Board of Scientific Counsellors Report](https://cmn.nimh.nih.gov/sites/default/files/inline-files/DSST_BSC_Dec_2023.pdf).
 
@@ -30,7 +30,7 @@ This position has minimal supervisory responsibilities, however motivated and pr
 
 ### Necessary Qualifications
 
-- A recent graduate degree (PhD preferred) in a [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) field or equivalent knowledge and experience
+- A recent graduate degree (PhD preferred) in a STEM field or equivalent knowledge and experience
 - Strong coding skills in Python
 - Experience with version control and continuous integration with git and github
 - Experience with more than one type of biomedical data (e.g. neuroimaging, genomics, next generation sequencing (NGS), transcriptomics, electrophysiology, microscopy)
@@ -46,3 +46,6 @@ Send an email to DATASCI-JOBSEARCH@mail.nih.gov.
 Attach your CV and use the body of the email as your cover letter. Links to examples of your code and/or publications are also encouraged. We especially encourage applications from members of underrepresented groups in the data science and biomedical research community. Other inquiries are also welcome.
 
 The National Institutes of Health is an equal opportunity employer. This position will be based at NIMH in Bethesda, MD via a third party contracting firm who is able to provide visa sponsorship.
+
+***
+[^1]: https://irp.nih.gov/about-us/organization-and-leadership
