@@ -6,7 +6,7 @@ The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) within 
 
 ## About the NIH, NIMH, & IRP
 
-With a current budget of over $2.5B per year, the NIMH is among the largest divisions of the [NIH](http://www.nih.gov) and is the largest funder of research on mental disorders in the world. The NIMH mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure.  The IRP is the [largest biomedical research institution on earth](https://en.wikipedia.org/wiki/NIH_Intramural_Research_Program#:~:text=the%20NIH%20Intramural%20Research%20Program%20is%20the%20largest%20biomedical%20research%20institution%20on%20earth) where the unique funding environment allows scientists to conduct both long-term and high-impact science that would difficult to impossible in a grant-dependent institution.
+With a current budget of over $2.5B per year, the NIMH is among the largest divisions of the [NIH](http://www.nih.gov) and is the largest funder of research on mental disorders in the world. The NIMH mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure.  The IRP is the [largest biomedical research institution on earth](https://en.wikipedia.org/wiki/NIH_Intramural_Research_Program#:~:text=the%20NIH%20Intramural%20Research%20Program%20is%20the%20largest%20biomedical%20research%20institution%20on%20earth), where the unique funding environment allows scientists to conduct both long-term and high-impact science that would difficult to impossible in a grant-dependent institution.
 
 ## About the Team
 
