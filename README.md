@@ -6,7 +6,7 @@ The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) within 
 
 ## About the NIH, NIMH, & IRP
 
-With a budget of $2.5B per year, the NIMH is among the largest divisions of the [NIH](http://www.nih.gov) and is the largest funder of research on mental disorders in the world. The NIMH mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure.  The IRP is the largest biomedical research institution on earth[^1](https://irp.nih.gov/about-us/organization-and-leadership#:~:text=As%20a%20whole%2C%20the%20IRP%20is%20the%20largest%20institution%20for%20biomedical%20science%20on%20earth), where the unique funding environment allows scientists to conduct both long-term and high-impact science that would difficult to impossible in a grant-dependent institution.
+With a budget of $2.5B per year, the NIMH is among the largest divisions of the [NIH](http://www.nih.gov) and is the largest funder of research on mental disorders in the world. The NIMH mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure.  The IRP is the [largest biomedical research institution on earth](https://irp.nih.gov/about-us/organization-and-leadership#:~:text=As%20a%20whole%2C%20the%20IRP%20is%20the%20largest%20institution%20for%20biomedical%20science%20on%20earth), where the unique funding environment allows scientists to conduct both long-term and high-impact science that would difficult to impossible in a grant-dependent institution.
 
 ## About the Team
 
@@ -50,6 +50,3 @@ This position has minimal supervisory responsibilities, however motivated and pr
 We especially encourage applications from members of underrepresented groups in the data science and biomedical research community. Other inquiries are also welcome.
 
 The National Institutes of Health is an equal opportunity employer. This position will be based at NIMH in Bethesda, MD via a third party contracting firm who is able to provide visa sponsorship.
-
-***
-[^1]: 
