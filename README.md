@@ -2,7 +2,7 @@
 
 # Hiring: Data Scientist
 
-The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) within the National Institute of Mental Health's [(NIMH)](http://www.nimh.nih.gov) Intramural Research Program [(IRP)](https://www.nimh.nih.gov/research/research-conducted-at-nimh) in Bethesda, MD, is seeking an early to mid-career data scientist for an on-site or hybrid position. Applications will be accepted through Friday, October 11, 2024.
+The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) within the National Institute of Mental Health's [(NIMH)](http://www.nimh.nih.gov) Intramural Research Program [(IRP)](https://www.nimh.nih.gov/research/research-conducted-at-nimh) in Bethesda, MD, is seeking an early to mid-career data scientist for an on-site or hybrid position. Applications will be accepted through **Friday, October 11, 2024**.
 
 ## About the NIH, NIMH, & IRP
 
