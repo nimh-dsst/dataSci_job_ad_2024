@@ -2,11 +2,11 @@
 
 # Hiring: Data Scientist
 
-The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) within the National Institute of Mental Health's [(NIMH)](http://www.nimh.nih.gov) Intramural Research Program [(IRP)](https://www.nimh.nih.gov/research/research-conducted-at-nimh) in Bethesda, MD has an open on-site or hybrid position for an early to mid-career data scientist.
+The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) within the National Institute of Mental Health's [(NIMH)](http://www.nimh.nih.gov) Intramural Research Program [(IRP)](https://www.nimh.nih.gov/research/research-conducted-at-nimh) in Bethesda, MD, is seeking an early to mid-career data scientist for an on-site or hybrid position.
 
 ## About the NIH, NIMH, & IRP
 
-With a current budget of over $2.5B per year, the NIMH is among the largest divisions of the [NIH](http://www.nih.gov) and is the largest funder of research on mental disorders in the world. The NIMH mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure.  The IRP is the largest biomedical research institution on earth[^1], where the unique funding environment allows scientists to conduct both long-term and high-impact science that would difficult to impossible in a grant-dependent institution.
+With a budget of $2.5B per year, the NIMH is among the largest divisions of the [NIH](http://www.nih.gov) and is the largest funder of research on mental disorders in the world. The NIMH mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure.  The IRP is the largest biomedical research institution on earth[^1], where the unique funding environment allows scientists to conduct both long-term and high-impact science that would difficult to impossible in a grant-dependent institution.
 
 ## About the Team
 
@@ -21,9 +21,9 @@ Everything we create is open source and freely distributed. A full listing of re
 ### Responsibilities
 
 - Building tools and pipelines for reproducible data analysis using Python
-- Implementing reproducible pipelines using both High Performance Computing and Elastic Cloud Computing  
+- Implementing reproducible pipelines using both High Performance Computing (HPC) and Elastic Cloud Computing (ECC)
 - Writing clear documentation and scholarly publications
-- Teaching and consulting on data science and best practices for reproducibility (e.g. [Software and Data Carpentries](https://carpentries.org/), [BrainHack Global](https://brainhack.org/global2023/))
+- Teaching and consulting on data science and best practices for reproducibility (e.g. [Software and Data Carpentries](https://carpentries.org/), [BrainHack Global](https://brainhack.org/global2023/), [FAES](https://w.faes.org/home-new))
 - Creating, expanding, and supporting [FAIR](https://en.wikipedia.org/wiki/FAIR_data) data standards in biomedical science (*e.g.* [BIDS](http://bids.neuroimaging.io/), [NWB](https://www.nwb.org/) [OME](https://www.openmicroscopy.org/), [GO](https://geneontology.org/))
 
 This position has minimal supervisory responsibilities, however motivated and productive individuals will have the opportunity to quickly assume a more senior role involving supervision and oversight of additional projects in parallel.
@@ -37,15 +37,18 @@ This position has minimal supervisory responsibilities, however motivated and pr
 
 ### Desirable but not Required Qualifications
 
-- Experience working with biomedical data repositories and biobanks (*e.g.* [The Adolescent Brain and Cognitive Development Project (ABCD)](https://nda.nih.gov/abcd/),  [OpenNeuro](http://openneuro.org), [UK Biobank](http://www.ukbiobank.ac.uk/), [GTEX](https://gtexportal.org/home/)) 
-- Experience with distributed, high-performance computing tools such as [Docker](https://www.docker.com)/[Apptainer (formerly Singularity)](https://apptainer.org/documentation/) and batch processing systems such as [SLURM](http://slurm.schedmd.com/)
+- Experience working with biomedical data repositories and/or biobanks (*e.g.* [The Adolescent Brain and Cognitive Development Project (ABCD)](https://nda.nih.gov/abcd/),  [OpenNeuro](http://openneuro.org), [UK Biobank](http://www.ukbiobank.ac.uk/), [GTEX](https://gtexportal.org/home/))
+- Experience with distributed, high-performance computing tools such as [Docker](https://www.docker.com)/[Apptainer](https://apptainer.org/documentation/) and batch processing systems such as [SLURM](http://slurm.schedmd.com/)
+- Recent examples of open access research objects (e.g. publications, code, datasets) on which you were a major contributor
 
 # How to apply…
 
-Send an email to DATASCI-JOBSEARCH@mail.nih.gov.
-Attach your CV and use the body of the email as your cover letter. Links to examples of your code and/or publications are also encouraged. We especially encourage applications from members of underrepresented groups in the data science and biomedical research community. Other inquiries are also welcome.
+- Email your CV to DATASCI-JOBSEARCH@mail.nih.gov
+- Use the body of the email as your cover letter
+
+We especially encourage applications from members of underrepresented groups in the data science and biomedical research community. Other inquiries are also welcome.
 
 The National Institutes of Health is an equal opportunity employer. This position will be based at NIMH in Bethesda, MD via a third party contracting firm who is able to provide visa sponsorship.
 
 ***
-[^1]: https://irp.nih.gov/about-us/organization-and-leadership
+[^1]: https://irp.nih.gov/about-us/organization-and-leadership#:~:text=As%20a%20whole%2C%20the%20IRP%20is%20the%20largest%20institution%20for%20biomedical%20science%20on%20earth
