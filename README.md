@@ -45,7 +45,7 @@ This position has minimal supervisory responsibilities, however motivated and pr
 
 - Email your CV to DATASCI-JOBSEARCH@mail.nih.gov
 - Use the body of the email as your cover letter
-- Applications will be accepted through Friday, October 11, 2024
+- Applications will be accepted through **Friday, October 11, 2024**
 
 We especially encourage applications from members of underrepresented groups in the data science and biomedical research community. Other inquiries are also welcome.
 
