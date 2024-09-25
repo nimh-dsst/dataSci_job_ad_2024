@@ -1,4 +1,4 @@
-<img src="https://nimh-dsst.github.io/dataSci_job_ad/NIMH_logo.png?raw=True" width="250"> <img src="dsst_logo_draft3.png" width="75">
+<img src="NIMH_logo.png" width="250"> <img src="dsst_logo.png" width="75">
 
 # Hiring: Data Scientist
 
