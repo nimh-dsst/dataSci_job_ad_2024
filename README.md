@@ -2,7 +2,7 @@
 
 # Position Available: Post-baccalaureate Data Science Trainee
 
-The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) within the National Institute of Mental Health's [(NIMH)](http://www.nimh.nih.gov) Intramural Research Program [(IRP)](https://www.nimh.nih.gov/research/research-conducted-at-nimh) in Bethesda, MD, is seeking an aspiring data scientist for an on-site position for an on-site position via the [NIH Postbac training program](https://www.training.nih.gov/research-training/pb/pb/). 
+The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) within the National Institute of Mental Health's [(NIMH)](http://www.nimh.nih.gov) Intramural Research Program [(IRP)](https://www.nimh.nih.gov/research/research-conducted-at-nimh) in Bethesda, MD, is seeking an aspiring data scientist for an on-site position for an on-site position via the [NIH Postbac training program](https://www.training.nih.gov/research-training/pb/pb/).
 
 ## About the NIH, NIMH, & IRP
 
@@ -34,14 +34,14 @@ Everything we create is open source and freely distributed. A full listing of re
 
 ### Desirable but not Required Qualifications
 
-- Experience working with biomedical data repositories and/or biobanks (*e.g.* [The Adolescent Brain and Cognitive Development Project (ABCD)](https://nda.nih.gov/abcd/),  [OpenNeuro](http://openneuro.org), [UK Biobank](http://www.ukbiobank.ac.uk/), [GTEX](https://gtexportal.org/home/))
+- Experience working with biomedical data repositories and/or biobanks (*e.g.* [The Adolescent Brain and Cognitive Development Project (ABCD)](https://nda.nih.gov/abcd/),  [OpenNeuro](http://openneuro.org), [UK Biobank](http://www.ukbiobank.ac.uk/), [GTEX](https://gtexportal.org/home/), [IDR: Image Data Repository](https://idr.openmicroscopy.org/), [Dandi Archive](https://www.dandiarchive.org/))
 - Experience with distributed, high-performance computing tools such as [Docker](https://www.docker.com)/[Apptainer](https://apptainer.org/documentation/) and batch processing systems such as [SLURM](http://slurm.schedmd.com/)
 - Recent examples of open access research objects (e.g. publications, code, datasets) on which you were a major contributor
 
 # How to apply…
 
-- Submit your application to the [NIH Postbac Training Program]((https://www.training.nih.gov/research-training/pb/pb/)
-- Send us an email at DATASCI-JOBSEARCH@mail.nih.gov to let us know you're interested in working with our team
+- Submit your application to the [NIH Postbac Training Program]((<https://www.training.nih.gov/research-training/pb/pb/>)
+- Send us an email at <DATASCI-JOBSEARCH@mail.nih.gov> to let us know you're interested in working with our team
 
 We'll then review your application in the database and get back to you soon. We are currently reviewing applicants and expect to select a candidate by **Friday, January 31, 2025**
 
