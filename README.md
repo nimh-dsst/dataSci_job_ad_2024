@@ -1,8 +1,8 @@
 <img src="NIMH_logo.png" width="250"> <img src="dsst_logo.png" width="75">
 
-# Hiring: Data Scientist
+# Position Available: Post-baccalaureate Data Science Trainee
 
-The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) within the National Institute of Mental Health's [(NIMH)](http://www.nimh.nih.gov) Intramural Research Program [(IRP)](https://www.nimh.nih.gov/research/research-conducted-at-nimh) in Bethesda, MD, is seeking an early to mid-career data scientist for an on-site or hybrid position. Applications will be accepted through **Friday, October 11, 2024**.
+The Data Science and Sharing Team [(DSST)](http://cmn.nimh.nih.gov/dsst) within the National Institute of Mental Health's [(NIMH)](http://www.nimh.nih.gov) Intramural Research Program [(IRP)](https://www.nimh.nih.gov/research/research-conducted-at-nimh) in Bethesda, MD, is seeking an aspiring data scientist for an on-site position for an on-site position via the [NIH Postbac training program](https://www.training.nih.gov/research-training/pb/pb/).
 
 ## About the NIH, NIMH, & IRP
 
@@ -23,29 +23,27 @@ Everything we create is open source and freely distributed. A full listing of re
 - Building tools and pipelines for reproducible data analysis using Python
 - Implementing reproducible pipelines using both High Performance Computing (HPC) and Elastic Cloud Computing (ECC)
 - Writing clear documentation and scholarly publications
-- Teaching and consulting on data science and best practices for reproducibility (e.g. [Software and Data Carpentries](https://carpentries.org/), [BrainHack Global](https://brainhack.org/global2023/), [FAES](https://w.faes.org/home-new))
+- Advocating for open science best practices for reproducibility (e.g. [Software and Data Carpentries](https://carpentries.org/), [BrainHack Global](https://brainhack.org/global2023/), [FAES](https://w.faes.org/home-new))
 - Creating, expanding, and supporting [FAIR](https://en.wikipedia.org/wiki/FAIR_data) data standards in biomedical science (*e.g.* [BIDS](http://bids.neuroimaging.io/), [NWB](https://www.nwb.org/) [OME](https://www.openmicroscopy.org/), [GO](https://geneontology.org/))
-
-This position has minimal supervisory responsibilities, however motivated and productive individuals will have the opportunity to quickly assume a more senior role involving supervision and oversight of additional projects in parallel.
 
 ### Necessary Qualifications
 
-- A recent graduate degree (PhD preferred) in a STEM field or equivalent knowledge and experience
+- A recent undergraduate degree in a STEM field or equivalent knowledge and experience
 - Strong coding skills in Python
 - Experience with version control and continuous integration with git and github
-- Experience with more than one type of biomedical data (e.g. neuroimaging, genomics, next generation sequencing (NGS), transcriptomics, electrophysiology, microscopy)
 
 ### Desirable but not Required Qualifications
 
-- Experience working with biomedical data repositories and/or biobanks (*e.g.* [The Adolescent Brain and Cognitive Development Project (ABCD)](https://nda.nih.gov/abcd/),  [OpenNeuro](http://openneuro.org), [UK Biobank](http://www.ukbiobank.ac.uk/), [GTEX](https://gtexportal.org/home/))
+- Experience working with biomedical data repositories and/or biobanks (*e.g.* [The Adolescent Brain and Cognitive Development Project (ABCD)](https://nda.nih.gov/abcd/),  [OpenNeuro](http://openneuro.org), [UK Biobank](http://www.ukbiobank.ac.uk/), [GTEX](https://gtexportal.org/home/), [IDR: Image Data Repository](https://idr.openmicroscopy.org/), [Dandi Archive](https://www.dandiarchive.org/))
 - Experience with distributed, high-performance computing tools such as [Docker](https://www.docker.com)/[Apptainer](https://apptainer.org/documentation/) and batch processing systems such as [SLURM](http://slurm.schedmd.com/)
 - Recent examples of open access research objects (e.g. publications, code, datasets) on which you were a major contributor
 
 # How to apply…
 
-- Email your CV to DATASCI-JOBSEARCH@mail.nih.gov
-- Use the body of the email as your cover letter
-- Applications will be accepted through **Friday, October 11, 2024**
+- Submit your application to the [NIH Postbac Training Program]((<https://www.training.nih.gov/research-training/pb/pb/>)
+- Send us an email at <DATASCI-JOBSEARCH@mail.nih.gov> to let us know you're interested in working with our team
+
+We'll then review your application in the database and get back to you soon. We are currently reviewing applicants and expect to select a candidate by **Friday, January 31, 2025**
 
 We especially encourage applications from members of underrepresented groups in the data science and biomedical research community. Other inquiries are also welcome.
 
